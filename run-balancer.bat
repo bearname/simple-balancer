@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk-11.0.4\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\lib\idea_rt.jar=54003:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\mikha\Desktop\github\simpleserver\out\production\simpleserver ru.mikushov.balancer.LoadBalancerMain 8081 8082 8083 8084 8085 8086 8087
